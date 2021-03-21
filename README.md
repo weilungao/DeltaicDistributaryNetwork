@@ -1,7 +1,7 @@
 # DeltaicDistributaryNetwork
 Extraction of distributary channels of D3D simulations
 
-＃Tutorial
+# Tutorial
 To be completed
 
 # References:<br/> 
